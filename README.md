@@ -4,7 +4,7 @@
 - 🌱About Me
 - I started my journey into frontend development and React during my university years. Since then, my passion for programming has grown, and I'm committed to continuous improvement.I'm a dedicated and hardworking individual, always eager to learn and grow. I excel in team collaborations and take pride in writing clean, readable code.
 
--👀 What I Bring to the Table
+- 👀 What I Bring to the Table
 - Experience with React and other key frontend technologies
 - Meticulous about writing effective and readable code
 - A strong desire to keep learning and self-improvement
