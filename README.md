@@ -13,7 +13,7 @@
 📫Get in Touch
 - LinkedIn: www.linkedin.com/in/funda-kazan-kırlılar-a211b7297
 - Email: fundakazankirlilar@gmail.com
-Feel free to reach out for discussions on frontend development topics, job opportunities, or collaboration. I'm also open to contributing to the developer community.
+  Feel free to reach out for discussions on frontend development topics, job opportunities, or collaboration. I'm also open to contributing to the developer community.
 
 💞️I'm excited to keep coding and learning every day!
 <!---
